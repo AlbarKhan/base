@@ -1,0 +1,7 @@
+
+The command to perform a SYN scan using Nmap is:   nmap -sS <target>
+
+
+FIN Scan: nmap -sF <target>
+NULL Scan:  nmap -sN <target>
+XMAS Scan: nmap -sX <target>
