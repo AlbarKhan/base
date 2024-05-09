@@ -1,0 +1,5 @@
+1] nmap  -sA  -T4 scanme-nmap.org
+2]nmap  -p22,113,139   scanme.nmap.org
+3]nmap  -sF  -T4 scanme-nmap.org 
+4]nmap  -sN  -p  22 scanme.nmap.org
+5]nmap  -sX  -T4  scanme.nmap.org
